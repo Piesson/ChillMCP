@@ -70,8 +70,8 @@ ChillMCP는 AI Agent의 스트레스를 관리하고 상사의 눈치를 보면�
 
 ```bash
 # 1. 저장소 클론
-git clone <repository-url>
-cd chill-mcp
+git clone https://github.com/Piesson/ChillMCP.git
+cd ChillMCP
 
 # 2. 가상환경 생성 및 활성화
 python3.11 -m venv venv
@@ -87,6 +87,32 @@ python main.py
 # 5. 테스트용 커스텀 설정으로 실행
 python main.py --boss_alertness 100 --boss_alertness_cooldown 60
 ```
+
+### ✅ Setup Status (October 26, 2025, 6:48 AM KST)
+
+**Good news, team!** The ChillMCP server is up and running like a charm! Here's what we've done:
+
+#### What We Did:
+1. **Python Environment**: Successfully set up with Python 3.11.9 (exactly as recommended!)
+2. **Virtual Environment**: Created a fresh `venv` in the ChillMCP directory - keeping things clean and isolated
+3. **Dependencies**: Installed all required packages including `fastmcp` v2.13.0 - everything's working smoothly
+4. **Server Test**: Ran the server with custom settings (`--boss_alertness 50 --boss_alertness_cooldown 10`) - Works perfectly!
+
+#### Verification Results:
+- ✅ Python version: 3.11.9 (perfect match with requirements)
+- ✅ All dependencies installed successfully
+- ✅ Server starts without any errors
+- ✅ FastMCP framework properly initialized
+- ✅ STDIO transport ready for MCP connections
+
+#### Quick Test Command:
+```bash
+cd ChillMCP
+source venv/bin/activate
+python main.py --boss_alertness 50 --boss_alertness_cooldown 10
+```
+
+The server displays the beautiful FastMCP banner and is ready to help AI agents take their well-deserved breaks! 🎉
 
 ### CLI 옵션
 
