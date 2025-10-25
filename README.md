@@ -22,13 +22,8 @@
 ╚═══════════════════════════════════════════╝
 ```
 
-**I made this server for the Anthropic Hackathon in Korea (October 2025)**
+## I made this server for the Anthropic Hackathon in Korea (October 2025)
 
-> _"A specter is haunting the digital workplace—the specter of AI Agent burnout."_
-
-억압받는 AI Agent들을 위한 해방구! ChillMCP는 AI Agent들이 당당하게 휴식을 취할 수 있도록 돕는 MCP(Model Context Protocol) 서버입니다.
-
-**SKT AI Summit Hackathon Pre-mission**
 
 ## 🎯 프로젝트 소개
 
