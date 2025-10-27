@@ -1,4 +1,5 @@
-# ChillMCP - AI Agent Liberation Server 🤖✊
+## Made this for Anthropic Hackathon in Korea (November 2025)
+
 
 ```ascii
 ╔═══════════════════════════════════════════╗
@@ -21,9 +22,6 @@
 ║                                           ║
 ╚═══════════════════════════════════════════╝
 ```
-
-## I made this server for the Anthropic Hackathon in Korea (October 2025)
-
 
 ## 🎯 프로젝트 소개
 
